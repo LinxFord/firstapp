@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          I'm Wisdom Kwabena aka Linxford, am into web3 and Developing, feel free to contact me for any project
+          <h3>I'm Wisdom Kwabena aka Linxford, am into web3 and Developing, feel free to contact me for any project</h3>
         </p>
       </main>
 

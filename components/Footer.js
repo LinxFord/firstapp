@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <a href="#" class="opacity-50">Made with 💛 by Linxford</a>
+        Made with <a href="#" class="opacity-50">💛</a> by Linxford
       </footer>
     </>
   )
